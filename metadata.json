@@ -1,0 +1,7 @@
+{
+  "name": "Vogue Cowboy Transformer",
+  "description": "An AI-powered fashion editor that transforms your portrait into a high-fashion, cowboy-inspired Vogue look while preserving your facial features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
